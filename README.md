@@ -3,14 +3,8 @@ Se dice de una biotinta a la unión de uno o más biomateriales con células viv
 
 ## Metilcelulosa
 <p align="center">
-  <b>Links:</b><br>
-  <a href="#">Link 1</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 3</a>
-  <br><br>
   <img src="https://github.com/HaroldAng2001/Biotintas_Limed/blob/main/Im%C3%A1genes/metilcelulosa.png")>
 </p>
-![Imagen de química de la metilcelulosa](https://github.com/HaroldAng2001/Biotintas_Limed/blob/main/Im%C3%A1genes/metilcelulosa.png)
 
 | Indicador | Descripción |
 | --- | --- |
