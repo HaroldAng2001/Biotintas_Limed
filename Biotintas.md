@@ -1,7 +1,7 @@
 # Alcohol polivinílico
 Polímero preparado a partir de acetatos de polivinilo mediante el reemplazo de grupos acetato con grupos hidroxilo [7].	
 <p align="center">
-  <img src="https://github.com/HaroldAng2001/Biotintas_Limed/blob/main/Im%C3%A1genes/metilcelulosa.png")>
+  <img src="https://github.com/HaroldAng2001/Biotintas_Limed/blob/main/Im%C3%A1genes/Alcohol%20Polivin%C3%ADlico.jpg")>
 </p>
 
 | Indicador | Descripción |
