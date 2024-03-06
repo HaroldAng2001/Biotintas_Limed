@@ -12,14 +12,19 @@ Polímero preparado a partir de acetatos de polivinilo mediante el reemplazo de 
 | Ssolubilidad |Polímero sintético soluble en agua rápidamente. Se descompone por efecto de pérdida de agua de dos grupos hidroxilos adyacentes a temperaturas superiores a los 150 °C. [12]				|
 
 ## Referencias bibliográficas
-[1] R. Bahamonde, “Desarrollo de un nuevo biomaterial compuesto basado en micelio de hongo filamentoso para impresión 3D,” Uchile.cl, 2023, doi: https://repositorio.uchile.cl/handle/2250/194616.	
+[7] OMS, “DeCS,” Bvsalud.org, 2023. https://decs.bvsalud.org/es/ths/resource/?id=11583#:~:text=Un%20pol%C3%ADmero%20preparado%20a%20partir,superficie%2C%20cosm%C3%A9ticos%20y%20otros%20productos. (accessed Mar. 06, 2024).
+‌
+[8] C. E. Echeverri, C. Vallejo, and M. E. Londoño, “SÍNTESIS Y CARACTERIZACIÓN DE HIDROGELES DE ALCOHOL POLIVINÍLICO POR LA TÉCNICA DE CONGELAMIENTO/DESCONGELAMIENTO PARA APLICACIONES MÉDICAS,” Revista EIA, no. 12, pp. 59–66, 2024, Accessed: Mar. 06, 2024. [Online]. Available: http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S1794-12372009000200005
+‌	
 
-[2] Nerea Arina Paños, “BIOTINTAS HÍBRIDAS PARA BIOIMPRESIÓN DE MODELOS PARA DIFERENTES TEJIDOS,” Csic.es, 2023, doi: http://hdl.handle.net/10261/341764.			
+[9] “Polímeros: POLIETENO O POLI(METILENO y ALCOHOL DE POLIVINILO,” SlideShare, 2020. https://es.slideshare.net/EdwinLopezMontes1/polmeros-polieteno-o-polimetileno-y-alcohol-de-polivinilo (accessed Mar. 06, 2024).
+‌	
 
-[3] Cristina Banda Sánchez, “MODELADO DE TUMORES DE PÁNCREAS MEDIANTE BIOIMPRESIÓN 3D,” Csic.es, 2021, doi: http://hdl.handle.net/10261/257053.‌			
+[10] “FICHA TÉCNICA APROBADA CARACTERISTICAS GENERALES.” Accessed: Mar. 06, 2024. [Online]. Available: http://zonasegura.seace.gob.pe/documentos//documentos/FichaSubInv/ALCOHOLPOLIVINILICO14mgmLSOLUCIONOFTALMICA15mL.pdf	
 
-[4] M. Alejandro et al., “Investigación, diseño y desarrollo de técnicas avanzadas en deposición de materiales en procesos personalizados de impresión 3D orgánica (ORGAN3D),” Asturias.es, 2021, doi: http://ria.asturias.es/RIA/handle/123456789/13525.		
+[11] “Alcohol polivinílico CAS 9002-89-5 | 114266,” Merckmillipore.com, 2024. https://www.merckmillipore.com/PE/es/product/Polyvinyl-alcohol,MDA_CHEM-114266 (accessed Mar. 06, 2024).
 
-[5] “Química Orgánica Industrial,” Eii.uva.es, 2024. https://www.eii.uva.es/organica/qoi/tema-03.php (accessed Mar. 06, 2024).	
-
-[6] “FICHAS DE INFORMACIÓN TÉCNICA.” Available: https://formulasmagistrales.acofarma.com/idb/descarga/3/ffc3aae87c4218f4.pdf
+[12] Mariano, “Alcohol de polivinilo,” Blogspot.com, 2015. https://tecnologiadelosplasticos.blogspot.com/2012/03/alcohol-de-polivinilo.html (accessed Mar. 06, 2024).
+‌
+[13] “ES2319896T3 - Polimero basado en alcohol de polivinilo y procedimiento para su fabricacion. - Google Patents,” Google.com, Sep. 08, 2004. https://patents.google.com/patent/ES2319896T3/es (accessed Mar. 06, 2024).
+‌
